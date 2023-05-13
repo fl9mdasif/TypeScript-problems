@@ -1,2 +1,4 @@
-const a: number = 10;
-console.log(a);
+// npm i -D nodemon 
+// npm init -y
+// npm i ts-node-dev 
+// tsc --init
